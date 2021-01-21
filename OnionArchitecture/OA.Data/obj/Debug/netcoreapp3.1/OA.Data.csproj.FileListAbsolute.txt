@@ -1,0 +1,9 @@
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.deps.json
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.dll
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.pdb
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfoInputs.cache
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfo.cs
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.csproj.CoreCompileInputs.cache
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.dll
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.pdb
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.csprojAssemblyReference.cache

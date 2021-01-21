@@ -1,0 +1,14 @@
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Service.deps.json
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Service.dll
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Service.pdb
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Data.dll
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Repo.dll
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Data.pdb
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\bin\Debug\netcoreapp3.1\OA.Repo.pdb
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csprojAssemblyReference.cache
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.AssemblyInfoInputs.cache
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.AssemblyInfo.cs
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.CoreCompileInputs.cache
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.csproj.CopyComplete
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.dll
+E:\Strabus\19-01-2021\OnionArchitecture\OA.Service\obj\Debug\netcoreapp3.1\OA.Service.pdb
